@@ -1,4 +1,4 @@
-# Na-ve-Bees_-Image-Loading-and-Processing
+# Naive-Bees_-Image-Loading-and-Processing
 
 Load, transform, and understand images of honey bees and bumble bees in Python.
 
